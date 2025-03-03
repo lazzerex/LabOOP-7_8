@@ -1,0 +1,7 @@
+E:\[HỌC TẬP]\Lab07_08-OOP\Lab07_08-OOP\bin\Debug\Lab07_08-OOP.exe.config
+E:\[HỌC TẬP]\Lab07_08-OOP\Lab07_08-OOP\bin\Debug\Lab07_08-OOP.exe
+E:\[HỌC TẬP]\Lab07_08-OOP\Lab07_08-OOP\bin\Debug\Lab07_08-OOP.pdb
+E:\[HỌC TẬP]\Lab07_08-OOP\Lab07_08-OOP\obj\Debug\Lab07_08-OOP.csproj.AssemblyReference.cache
+E:\[HỌC TẬP]\Lab07_08-OOP\Lab07_08-OOP\obj\Debug\Lab07_08-OOP.csproj.CoreCompileInputs.cache
+E:\[HỌC TẬP]\Lab07_08-OOP\Lab07_08-OOP\obj\Debug\Lab07_08-OOP.exe
+E:\[HỌC TẬP]\Lab07_08-OOP\Lab07_08-OOP\obj\Debug\Lab07_08-OOP.pdb
